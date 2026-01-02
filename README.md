@@ -131,22 +131,6 @@ User: root
 Password: 1234
 ```
 
-## 📸 Ekran Görüntüleri
-
-### Giriş Sayfası
-- Kullanıcı adı ve şifre ile giriş
-- reCAPTCHA doğrulaması
-
-### Kullanıcı Paneli
-- Açık pozisyonları listeleme
-- Başvuru yapma
-- Başvuru durumu takibi
-
-### Admin Paneli
-- Pozisyon yönetimi
-- Başvuru değerlendirme
-- Kullanıcı listeleme
-
 ## 🤝 Katkıda Bulunma
 
 1. Bu repoyu fork edin
